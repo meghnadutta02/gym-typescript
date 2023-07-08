@@ -28,7 +28,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
 
   return (
     <motion.section
-    id="#contactus"
+    id="contactus"
       onViewportEnter={() => setSelectedPage("contactus")}
       className="mx-auto w-5/6 py-24 md:min-h-full"
     >
