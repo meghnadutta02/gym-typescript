@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Dispatch, SetStateAction } from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 type Props = {

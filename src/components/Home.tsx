@@ -1,4 +1,4 @@
-import React, { Dispatch, SetStateAction } from "react";
+import { Dispatch, SetStateAction } from "react";
 import useMediaQuery from "../hooks/useMediaQuery";
 import ActionButton from "./ActionButton";
 import HomePageText from "../assets/HomePageText.png";

@@ -1,4 +1,4 @@
-import React, { Dispatch, SetStateAction } from "react";
+import { Dispatch, SetStateAction } from "react";
 import Class from "./Class"
 import image1 from "../assets/image1.png";
 import image2 from "../assets/image2.png";

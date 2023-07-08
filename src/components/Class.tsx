@@ -1,4 +1,3 @@
-import React from 'react'
 import { ClassType } from './shared/types'
 
 const Class = ({key,name,description,image}: ClassType) => {

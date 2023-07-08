@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import React, { Dispatch, SetStateAction } from "react";
+import { Dispatch, SetStateAction } from "react";
 import { useForm } from "react-hook-form";
 
 import ContactUsPageGraphic from "../assets/ContactUsPageGraphic.png";
